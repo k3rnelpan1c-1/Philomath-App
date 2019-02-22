@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Philomath</string>
+    <string name="title_activity_login_sign_up">LoginSignUp</string>
+    <string name="my_url">http://192.168.137.1/cloudserver/Recycle.php?table=</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
